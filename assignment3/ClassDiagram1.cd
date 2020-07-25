@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="assignment3.GiantPlanet" Collapsed="true">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQEAAAABAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>GiantPlanet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="assignment3.Planet" Collapsed="true">
+    <Position X="1.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBIAAgAAAAAEAEAAAACAQBACAAAAAAEAABAACAAQA=</HashCode>
+      <FileName>Planet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="assignment3.Program" Collapsed="true">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="assignment3.TerrestrialPlanet" Collapsed="true">
+    <Position X="1.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQEAAAABAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>TerrestialPlanet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="assignment3.IHabitable" Collapsed="true">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IHabitable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="assignment3.IHasMoons" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IHasMoon.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="assignment3.IHasRings" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IHasRings.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
